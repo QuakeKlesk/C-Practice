@@ -1,4 +1,6 @@
-﻿int result1 = 0;
+﻿//  Нахождение суммы кратных и некратных чисел
+
+int result1 = 0;
 int result2 = 0;
 int crat = 2;
 while (true)
